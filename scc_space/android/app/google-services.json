@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718018154030",
+    "firebase_url": "https://scc-space.firebaseio.com",
+    "project_id": "scc-space",
+    "storage_bucket": "scc-space.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718018154030:android:0d6771d801a8e996c759bf",
+        "android_client_info": {
+          "package_name": "com.scc.scc_space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718018154030-hvd2ra2nd2c8ru9ef0ua2cmlnd5e774b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scc.scc_space",
+            "certificate_hash": "111421cc42a4a92a7879df57fe6eed713c49c7cf"
+          }
+        },
+        {
+          "client_id": "718018154030-9b76tcgpi54lc7sdfhu5nddutsfrcf31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5WgRw5ArjdsM_GTM0MbFysVfPBCV4dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718018154030-9b76tcgpi54lc7sdfhu5nddutsfrcf31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
