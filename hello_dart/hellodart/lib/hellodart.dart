@@ -37,7 +37,7 @@ assert('That deserves all caps. ' +
         'STRING INTERPOLATION is very handy!');
 
 //raw string good!
-      var s = r'In a raw string, not even \n gets special treatment.';
+      var rowS = r'In a raw string, not even \n gets special treatment.';
 
 var nobleGases2 = Map();
 nobleGases2[2] = 'helium';
@@ -47,7 +47,12 @@ nobleGases2[18] = 'argon';
 Symbol obj = new Symbol('Spacecraft');  
 // expects a name of class or function or library to reflect 
 
+
+
 }
+
+
+
 
 
 class Spacecraft {
